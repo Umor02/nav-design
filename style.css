@@ -1,0 +1,105 @@
+
+/* header section start  */
+.logo img{
+    height: auto;
+    width: 117px;
+    display: inline-block;
+    position: relative;
+    left: 24px;
+
+}
+.middle{
+    background-color: rgb(32,7,105);
+}
+.middle ul{
+    list-style-type: none;
+    position: absolute;
+    top: 2px;
+    left: 168px;
+    background: rgb(32,7,105);
+    padding: 35px 4px;
+    padding-left: 14px;
+    
+
+}
+.middle ul li{
+    display: inline-block;
+}
+.middle ul li a {
+    color: white;
+    padding: 9px 21px;
+    text-decoration: none;
+    font-size: 15px;
+}
+.middle ul li a:hover{
+    color: chocolate;
+}
+.btn{
+    width: 200px;
+    height: auto;
+    position: absolute;
+    left: 39px;
+    top: 25px;
+}
+.right{
+    height: 94px;
+    width: 239px;
+    position: absolute;
+    top: 2px;
+    left: 950px;
+}
+/* header section end  */
+
+/* image section start  */
+
+.img img{
+    height: auto;
+    width: 1355px;
+    position: relative;
+    top: -11px;
+}
+/* image section end  */
+
+/* heading section start  */
+.heading h2 {
+    position: absolute;
+    top: 274px;
+    color: white;
+    left: 91px;
+    font-size: 40px;
+    width: 295px;
+}
+/* heading section end  */
+
+/* <!-- lorem section start --> */
+.lorem p{
+    color: white;
+    font-size: 22px;
+    position: absolute;
+    top: 435px;
+    left: 100px;
+    width: 404px;
+}
+/* <!-- lorem section end --> */
+/* <!-- button section start --> */
+.BUTTON BUTTON {
+    height: auto;
+    width: 155px;
+    padding: 8px;
+    border-radius: 17px;
+    position: absolute;
+    top: 492px;
+    left: 99px;
+}
+
+ 
+.button button{
+    height: auto;
+    width: 155px;
+    padding: 8px;
+    border-radius: 17px;
+    position: absolute;
+    top: 492px;
+    left: 342px;
+}
+/* <!-- button section end --> */
